@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Forever Young
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://vk.com/na_vechno_molodoy0 and DS - d_o_m_i_n_a_t_o_r. and Steam - https://steamcommunity.com/id/ForeverYoungFR
 
 <!---
 Forever564/Forever564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
